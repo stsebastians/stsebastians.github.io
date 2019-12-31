@@ -1696,3 +1696,10 @@ h2.text-bg-click a {
   max-width: 100%;
   margin: 0 auto;
 }
+.magazine-viewport{
+	margin: auto;
+	position: relative !important;
+    height: 81vh !important;
+    width: 100vw !important;
+}
+}
