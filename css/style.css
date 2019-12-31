@@ -1702,4 +1702,5 @@ h2.text-bg-click a {
     height: 81vh !important;
     width: 100vw !important;
 }
-}
+ .rounded {
+    border-radius: 6.25rem !important;
