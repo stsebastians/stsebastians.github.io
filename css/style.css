@@ -1188,8 +1188,20 @@ h2.text-bg-click a {
 .feedback-top p {
     color: #eee;
 }
-
+.feedback-top h4{color: aliceblue;}
 /* //testimonials */
+.extraheight{
+	margin: 150px;
+	
+}
+.newssample1img {
+    background: url(../images/blog1.jpg) no-repeat top fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+}
 
 /* gallery */
 .gallery-grid1 img {
